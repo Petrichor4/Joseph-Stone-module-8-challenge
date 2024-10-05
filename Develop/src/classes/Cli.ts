@@ -289,7 +289,7 @@ class Cli {
           console.log('This truck cannot tow itself');
           this.performActions();
         } else {
-          console.log(`${answers.vehicleToTow.year} ${answers.vehicleToTow.make} ${answers.vehicleToTow.model} has been towed`)
+          Truck.prototype.tow(truck,answers.vehicleToTow)
           this.performActions();
         }
         // TODO: if it is, log that the truck cannot tow itself then perform actions on the truck to allow the user to select another action
