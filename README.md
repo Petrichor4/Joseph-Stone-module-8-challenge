@@ -17,7 +17,14 @@
   Either clone the repo on to your machine or download the zip file from the code button on the main repo page
   ## Usage
 
-  Open a terminal in the directory location and npm install the required dependencies then run the command node index.js
+  Open a terminal in the directory location and npm install the required dependencies then run the command npm run start
+
+  
+
+  https://github.com/user-attachments/assets/4e232229-19ac-4688-b00a-21092485ca32
+
+
+  
   ## Contributing
 
   NO CONTRIBUTERS
